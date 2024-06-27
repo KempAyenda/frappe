@@ -9,6 +9,7 @@ readme = "README.md"
 dynamic = ["version"]
 dependencies = [
     # core dependencies
+    "pm4py~=2.7.11.10", 
     "Babel~=2.13.1",
     "Click~=8.1.7",
     "filelock~=3.13.1",
